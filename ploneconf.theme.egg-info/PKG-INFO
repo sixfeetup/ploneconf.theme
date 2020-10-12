@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: ploneconf.theme
+Version: 1.0a1
+Summary: An add-on for Plone
+Home-page: https://github.com/collective/ploneconf.theme
+Author: Chrissy Wainwright
+Author-email: chrissy@sixfeetup.com
+License: GPL version 2
+Project-URL: PyPI, https://pypi.python.org/pypi/ploneconf.theme
+Project-URL: Source, https://github.com/collective/ploneconf.theme
+Project-URL: Tracker, https://github.com/collective/ploneconf.theme/issues
+Description: UNKNOWN
+Keywords: Python Plone CMS
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Plone
+Classifier: Framework :: Plone :: Addon
+Classifier: Framework :: Plone :: 5.2
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Requires-Python: ==2.7, >=3.6
+Provides-Extra: test
